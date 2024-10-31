@@ -2,14 +2,23 @@
 
 <img src="image.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
+  Sou um estudante de tecnologia buscando sempre dar o melhor no que faço! 🎯💪
+</p>
 
+<p align="left"> 
+  Aqui colocarei meus futuros projetos e mostrarei meu progresso nos estudos.
+</p>
 
 <p align="left">
+
 - 🎓 Cursando Bacharelado em Sistemas de Informação no Instituto Federal de São Paulo, campus São Paulo.
 </p>
 <p align="left">
+
 - ☕ Estudando: Java.</p>
 <p align="left">
+
 - 💼 Trabalhando na empresa Califórnia Materiais.
 </p>
 
