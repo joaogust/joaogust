@@ -2,4 +2,4 @@
 
 - 🎓 Bacharelado em Sistemas de Informação (IFSP | São Paulo)
 - 👨‍💻 Estudante de programação
-- 📌 Estudando: Python e Java
+- 📌 Estudando: Java
