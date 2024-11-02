@@ -2,13 +2,17 @@
 
 <img src="image.png" alt="ilustração de um computador" width="400px" align="right">
 
-Sou um estudante de tecnologia buscando sempre dar o melhor no que faço! 🎯💪
+<P>Sou um estudante de tecnologia buscando sempre dar o melhor no que faço! 🎯💪
 
 Aqui colocarei meus futuros projetos e mostrarei meu progresso nos estudos.
+
+<br>
+
 
 - 🎓 Cursando Bacharelado em Sistemas de Informação no Instituto Federal de São Paulo, campus São Paulo.
 - ☕ Estudando: Java.
 - 💼 Trabalhando na empresa Califórnia Materiais.
+</P>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joão-gustavo-dos-santos/" title="LinkedIn">
