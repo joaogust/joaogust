@@ -11,7 +11,7 @@ Neste repositório, você encontrará meus projetos futuros, o progresso dos meu
 ### Sobre mim:
 
 - 🎓 **Bacharelado em Sistemas de Informação** no Instituto Federal de São Paulo, campus São Paulo.
-- ☕ **Tecnologias que estou estudando**: Java.
+- ☕ **Tecnologias que estou estudando**: Java e C.
 - 💼 **Experiência Profissional**: Trabalho na empresa *Califórnia Materiais* com foco em operações financeiras, criação de conteúdo e atendimento ao cliente.
 
 ---
