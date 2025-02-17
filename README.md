@@ -10,7 +10,7 @@
 
 ☕ **Tecnologias que estou estudando**: Java e C.
 
-💼 **Experiência Profissional**: Trabalho na empresa *Califórnia Materiais* com foco em operações financeiras, criação de conteúdo e atendimento ao cliente.
+💼 **Experiência Profissional**: Trabalho na empresa *Califórnia Materiais para Construção* com foco em operações financeiras, criação de conteúdo e atendimento ao cliente.
 
 </div>
 
