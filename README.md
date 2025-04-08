@@ -1,3 +1,5 @@
+![Design sem nome (1)](https://github.com/user-attachments/assets/48a2f068-c1c9-427c-bd0b-ebc85347f8d7)
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Gustavo!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9F" alt="Typing SVG">
@@ -35,3 +37,5 @@
   <a href = "mailto:joaogustavodossantoss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
 </div>
+
+![Design sem nome (2)](https://github.com/user-attachments/assets/db341dd9-c849-480e-9831-69757151d7c6)
