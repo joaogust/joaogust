@@ -6,14 +6,8 @@
   </a>
 </p>
 
-<div align="center">
-  
-🎓 **Bacharelado em Sistemas de Informação** no Instituto Federal de São Paulo, campus São Paulo.
-
-☕ **Tecnologias que estou estudando**: Java e C.
-
-💼 **Experiência Profissional**: Trabalho na empresa *Califórnia Materiais para Construção* com foco em operações financeiras, criação de conteúdo e atendimento ao cliente.
-
+<div> 
+Eu sou o João Gustavo, estudante de Sistemas de Informação com foco em Segurança Cibernética. Estou consolidando minha base nas linguagens Python, SQL, Java e C, buscando ativamente desafios que me ajudem a evoluir e aprender com outras pessoas.💡</br></br></br>
 </div>
 
 <div align="center">
@@ -25,17 +19,26 @@
     
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="SQL Server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
 </div>
 
 
   <p></p>
   <div align="center"> 
   <a href="https://www.linkedin.com/in/joão-gustavo-dos-santos/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="https://www.instagram.com/_joaogus_/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href = "mailto:joaogustavodossantoss@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  
 </div>
 
 ![Design sem nome (2)](https://github.com/user-attachments/assets/db341dd9-c849-480e-9831-69757151d7c6)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaogust/joaogust/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaogust/joaogust/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaogust/joaogust/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
