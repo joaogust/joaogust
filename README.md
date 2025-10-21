@@ -1,4 +1,4 @@
-![Design sem nome (1)](https://github.com/user-attachments/assets/48a2f068-c1c9-427c-bd0b-ebc85347f8d7)
+<img width="2999" height="525" alt="431462143-48a2f068-c1c9-427c-bd0b-ebc85347f8d7" src="https://github.com/user-attachments/assets/284175cd-5e5b-4e4c-b95e-a4d8dd2f3664" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -32,13 +32,10 @@ Eu sou o João Gustavo, estudante de Sistemas de Informação com foco em Segura
  
 </div>
 
-![Design sem nome (2)](https://github.com/user-attachments/assets/db341dd9-c849-480e-9831-69757151d7c6)
+<img width="3000" height="611" alt="431462646-db341dd9-c849-480e-9831-69757151d7c6" src="https://github.com/user-attachments/assets/10638f98-5c25-409e-87e5-aca68ee192c8" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaogust/joaogust/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaogust/joaogust/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaogust/joaogust/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
