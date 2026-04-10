@@ -7,7 +7,6 @@
 </p>
 
 <div> 
-
 Sou estudante de Sistemas de Informação (IFSP) com foco em <b>Segurança Cibernética</b>, direcionando minha formação para atuação em ambientes de <b>SOC (Security Operations Center)</b> e análise de ameaças.
 Atualmente, estou desenvolvendo competências práticas em:
 <br><br>
