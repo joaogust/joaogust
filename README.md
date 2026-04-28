@@ -1,5 +1,3 @@
-<img width="2999" height="525" alt="header" src="https://github.com/user-attachments/assets/284175cd-5e5b-4e4c-b95e-a4d8dd2f3664" />
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=ffffff&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+Jo%C3%A3o+Gustavo!+%E2%98%95%F0%9F%92%BB%F0%9F%8C%9F" alt="Typing SVG">
@@ -49,11 +47,3 @@ Tenho como objetivo atuar na identificação e investigação de comportamentos 
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
-<img width="3000" height="611" alt="footer" src="https://github.com/user-attachments/assets/10638f98-5c25-409e-87e5-aca68ee192c8" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaogust/joaogust/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaogust/joaogust/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/joaogust/joaogust/output/pacman-contribution-graph.svg">
-</picture>
